@@ -5,6 +5,6 @@ public class Main {
     }
 
     public static void greet() {
-        System.out.println("Greetings from Git!");
+        System.out.println("Greetings from git!");
     }
 }
